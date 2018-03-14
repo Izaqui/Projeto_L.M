@@ -1,0 +1,82 @@
+#cabecario{
+	   
+       background: black;
+       background: linear-gradient(black,gray,white);
+       border-radius: 50px;
+
+
+}
+div #logo{
+	background-attachment: fixed;
+}
+body{
+   background-image: url(../Background/an.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-attachment: fixed;
+}
+a{
+	padding-left: 05%;
+	text-align: center;
+  margin: 05%;
+}
+
+a:link{
+	color: white;
+}
+a:hover{
+	color: red;
+}
+h3{
+	text-align: center;
+	text-decoration: overline;
+	padding: 10%;
+  height: 5%;
+
+}
+.im{
+
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin: 10px;
+    padding: 50px
+    text-transform: uppercase;
+    border-radius: 100px;
+    overflow: scroll;
+    text-decoration:overline;
+    background: linear-gradient(black,gray,white);
+    text-align: center;
+}
+.telinha{
+	border-radius: 50px;
+	background: linear-gradient(#151515,#1C1C1C);
+	width: 100%;
+	height: 200%;
+}
+.miniT{
+   border-radius: 45px;
+   background: #669;
+   width: 100%;
+   height: 20%;
+   float: center;
+}
+.rodape{
+    background: linear-gradient(#151515,#1C1C1C);
+    width: 100%;
+    height: 25%;
+}
+.dentro{
+    background-image: url(../Background/roda.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 70%;
+    float: center;
+}
+#fonte{
+  font-size: 40px;
+  font-family: fantasy;
+  color: #00FF40;
+}

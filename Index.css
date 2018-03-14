@@ -1,0 +1,70 @@
+
+#topo {
+	background: linear-gradient(#1C1C1C, #151515, #000000);
+	float: center;
+	margin: 15px;
+	color: white;
+	height: 1000px;
+	width: 700px;
+	border-radius: 50px;
+}
+
+hr{
+	width: 1000px;
+}
+h1{
+	text-align: center;
+	font-family: "courier";
+	font-size: 75px;
+}
+
+body{
+	background-image: url('fundo.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	color: white;
+}
+
+#barra td{
+	padding-right: 30px;
+	padding-left: 30px;
+	font-family: "courier";
+}
+
+#AnimeMusicas img{
+	max-width: 200px;
+	border-radius: 10px;
+	margin: 25px;
+	
+}
+
+#AnimeMusicas p{
+	text-align: center;
+	font-family: "courier";
+}
+
+caption{
+	font-size: 30px;
+	margin-top:10px;
+	font-family: "courier";
+}
+
+#barra a:link{
+	color: white;
+	text-decoration: none;
+}
+#barra a:hover{
+	color: white;
+	text-decoration: none;
+}
+#barra a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+
+
+
